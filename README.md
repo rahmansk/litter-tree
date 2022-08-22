@@ -1,1 +1,1 @@
-# litter-tree
+# Litter-tree [ Python Mini Project 🐍]
